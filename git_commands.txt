@@ -1,0 +1,21 @@
+git init 
+git add file name
+git status
+git commit -m "message"
+
+
+clear
+git remote add origin https://github.com/username/foldernme
+git remote -v
+git push origin main
+
+
+//git bash
+mkdir folder name
+cd folder
+git clone github clone 
+
+
+
+
+this is command to use 

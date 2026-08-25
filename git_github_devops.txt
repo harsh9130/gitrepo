@@ -1,0 +1,6 @@
+git remote -v 
+git push origin mster
+clear
+
+
+this is some new chnge
